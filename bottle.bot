@@ -1,0 +1,15 @@
+{
+    "name": "bottle",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "bottle",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "id": "1"
+        }
+    ],
+    "padlock": "vZMa3rD4RCNwu13XkEFM/A==!u9ZK1VLcBB82lpigqNkTwHdAH1D5GJqWcjde9ZAxjMoX1abm5unFrTdNwINKkAwS",
+    "version": "2.0"
+}
